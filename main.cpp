@@ -105,7 +105,7 @@ int main()
         }
         }
       
-       while (option == 3)
+      while (option == 3)
       {
         cout << "\nYour account number: " << acc_num;
         cout << "\nYour PIN: " << pin;
