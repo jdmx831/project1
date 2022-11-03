@@ -1,7 +1,4 @@
-// Title: project1
 // Description: this program acts as a simple ATM
-// Author: Daniel Paniagua
-// Date: 11/2/22
 #include <iostream>
 using namespace std;
 int main() 
